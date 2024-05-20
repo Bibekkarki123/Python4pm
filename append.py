@@ -1,8 +1,10 @@
-data = []
-name = input("Enter a Name: ")
-address = input("Enter a Address: ")
-Age = int(input("Enter a age: "))
-data.append(name)
-data.append(address)
-data.append(Age)
-print(data)
+# data = []
+# name = input("Enter a Name: ")
+# address = input("Enter Address: ")
+# Age = int(input("Enter age: "))
+# Gender = (input("Enter Gender: "))
+# data.append(name)
+# data.append(address)
+# data.append(Age)
+# data.append(Gender)
+# print(data)
